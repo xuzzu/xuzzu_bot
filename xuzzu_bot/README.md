@@ -1,1 +1,1 @@
-A simple bot that runs chat-gpt api in Telegram
+A simple bot that runs chat-gpt API in Telegram
